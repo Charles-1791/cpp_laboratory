@@ -1,0 +1,1 @@
+/usr/bin/g++-13  -g   CMakeFiles/test_exec.dir/test.cpp.o  -o test_exec  -pthread 

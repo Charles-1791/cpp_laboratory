@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-13 -DCMAKE_CXX_COMPILER=/usr/bin/g++-13 -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.niXUeIEY17 -B /tmp/tmp.niXUeIEY17/build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /tmp/tmp.niXUeIEY17/build
